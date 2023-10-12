@@ -13,4 +13,5 @@ for _ in range(20):
         total += p
         result += p * core[grade.index(g)]
 
+#여기 한번 확인해보자!
 print('%6f' % (result/total))
