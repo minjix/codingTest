@@ -30,4 +30,4 @@ for i in range(1, 10):
 
 linkedlist.desc()
 
-# 커밋계정 테스트
+# 커밋계정 테스트22
